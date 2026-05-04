@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ei! Eu sou a Lívia 👋
 
-<!--
-**livsteise/livsteise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação  
+💻 Desenvolvedora em formação
+💡 Adquirindo conhecimentos em TI
 
-Here are some ideas to get you started:
+## 🚀 Projetos
+- Simulação de Vírus Ransoware-Wiper
+- Análise de dados científicos: Manchas Solares (Python)
+- Sistema básico de cabelereiro 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- Java | SQL | Python | Lógica de Programação
+- Git | GitHub
+- Processos | PDCA | Análise de Dados
+
+## 📫 Contato
+- Email: liviasteiseg@gmail.com
+- LinkedIn: https://www.linkedin.com/in/livia-steise-046b30260/
