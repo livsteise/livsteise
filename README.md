@@ -1,7 +1,7 @@
 # Ei! Eu sou a Lívia 👋
 
 🎓 Estudante de Sistemas de Informação  
-💻 Desenvolvedora em formação
+💻 Desenvolvedora em formação  
 💡 Adquirindo conhecimentos em TI
 
 ## 🚀 Projetos
